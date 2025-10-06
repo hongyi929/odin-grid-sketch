@@ -7,3 +7,7 @@
 - Rainbow mode that generates a random color on the tiles after clicking and dragging
 - Eraser mode to erase tiles back to normal
 - Change Grid Buttons and sliders to change the dimensions of the tiles e.g. 16x16 to 30x30 tiles.
+
+### Learning Points
+- Practice CSS & JavaScript code organisation
+- Experimented with new event listener types
